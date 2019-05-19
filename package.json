@@ -1,0 +1,32 @@
+{
+  "name": "express-instamojo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "nodemon": "^1.18.4",
+    "request": "^2.88.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "description": "Simple backend for serving payment gateway request from react-native app",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Purushottam Sharma",
+  "license": "ISC"
+}
