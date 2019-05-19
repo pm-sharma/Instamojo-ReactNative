@@ -1,4 +1,4 @@
-# instamojo_rn_app
+# InstamojoReactNativeApp
 Simple react native app which demonstrates the integration of instamojo payment gateway ( using express as backend )
 
 #### run npm install
