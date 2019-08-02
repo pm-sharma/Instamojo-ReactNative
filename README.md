@@ -6,4 +6,4 @@
 >
 >## **Instamojo/Backend** for NodeJS Intergration With Instamojo 
 
-:octocat: :eyes: **Will Soon post a medium article for better understaning :smiley:
+:octocat: 
